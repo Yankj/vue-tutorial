@@ -1,6 +1,8 @@
 # vue-tutorial
 
 > 一个 Vue.js 起步项目
+跟随http://blog.csdn.net/hsany330/article/details/53393440
+http://www.meckodo.com/#!/
 
 ## Build Setup
 
