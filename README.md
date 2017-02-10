@@ -4,6 +4,15 @@
 http://blog.csdn.net/hsany330/article/details/53393440
 http://www.meckodo.com/#!/
 
+## 通过这个项目，我们可以学习到许多关于vue的特性。
+
+1.了解了vue-cli脚手架
+2.初步对webpack有了一些了解和认识
+3.如何用.vue愉快的开发
+4.使用vuex进行组件通信
+5.路由（子路由）的应用
+6.使用 vue-devtools 观察我们的数据
+
 ## Build Setup
 
 ``` bash

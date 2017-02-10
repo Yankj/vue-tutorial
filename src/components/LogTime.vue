@@ -32,7 +32,7 @@
         comment : ''
       }
     },
-    method:{
+    methods:{
       save() {
         const plan = {
           name : '二哲',
